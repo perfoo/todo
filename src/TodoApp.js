@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './TodoApp.css'
 
 const TodoApp = () => {
   // State to hold the list of tasks
@@ -49,7 +50,7 @@ const TodoApp = () => {
 
   return (
     <div>
-      <h1>Todo App</h1>
+      <h1>Tasks</h1>
       <div>
         {/* Input field for entering a new task */}
         <input
