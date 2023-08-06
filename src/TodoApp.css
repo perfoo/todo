@@ -17,6 +17,7 @@ input {
     padding: 4px;
     background-color: cadetblue;;
     border-radius: 8px;
+    font-size: medium;
 }
 
 button {
@@ -24,6 +25,7 @@ button {
     padding: 4px;
     border-radius: 8px;
     background-color: cadetblue;
+    font-size: medium;
 }
 
 ul {
@@ -40,5 +42,5 @@ li {
     display: flex;
     justify-content:space-between;
     align-items: center;
-    font-weight: 600;
+    font-size: larger;
 }

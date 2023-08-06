@@ -50,7 +50,7 @@ const TodoApp = () => {
 
   return (
     <div>
-      <h1>Tasks</h1>
+      <h1>Podsjetnik</h1>
       <div>
         {/* Input field for entering a new task */}
         <input
