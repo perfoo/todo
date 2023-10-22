@@ -22,7 +22,7 @@ input {
 
 button {
     margin: 4px;
-    padding: 4px;
+    padding: 4px 8px;
     border-radius: 8px;
     background-color: cadetblue;
     font-size: medium;
@@ -43,4 +43,14 @@ li {
     justify-content:space-between;
     align-items: center;
     font-size: larger;
+    padding: 4px;
+    box-shadow: 2px 2px 5px rgb(198, 239, 245);
+    margin: 8px;
+    border-radius: 12px;
+}
+
+li button {
+    padding: 2px 4px;
+    margin: 8px 2px;
+    color: rgb(118, 9, 168);
 }
